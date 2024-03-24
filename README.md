@@ -14,6 +14,8 @@ The Health Monitor program is a simple C application designed to record and disp
 
 
 === Health Monitor ===
+
+
 Enter heart rate: 72
 Enter blood pressure: 120
 Enter temperature: 37.5
