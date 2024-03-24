@@ -1,17 +1,24 @@
-# HealthTrackSystem
-Represent vital Signs
 
-## Purpose of the Project
-The HealthTrackSystem project is designed to monitor and track vital signs of patients in real-time. It aims to provide healthcare professionals with a reliable system to monitor parameters such as heart rate, blood pressure, temperature, and oxygen saturation. By utilizing C language, the project ensures efficient and low-level access to hardware, making it suitable for embedded systems and medical devices.
+# HealthTrackSystem
+The Health Monitor program is a simple C application designed to record and display vital signs such as heart rate, blood pressure, and temperature.
+
+## Features
+- **Record Vital Signs**: Allows users to input their heart rate, blood pressure, and temperature.
+- **Display Vital Signs**: Displays the recorded vital signs in a formatted manner.
 
 ## How to Use
-### Requirements
-- C compiler (e.g., GCC)
-- Operating system compatible with C programs
+1. Compile the program using a C compiler.
+2. Run the compiled executable.
+3. Follow the on-screen instructions to input vital signs.
+4. View the displayed vital signs.
 
-## Additional Information
-- The project is written in C language, providing efficiency and low-level access to hardware.
-- It allows for real-time monitoring of vital signs, making it suitable for medical devices and embedded systems.
-- Future enhancements may include support for additional sensors, improved user interface, and integration with healthcare databases.
-- Please ensure compliance with medical regulations and ethical considerations when using or modifying this project for medical purposes.
 
+=== Health Monitor ===
+Enter heart rate: 72
+Enter blood pressure: 120
+Enter temperature: 37.5
+
+Vital Signs:
+Heart Rate: 72.00 bpm
+Blood Pressure: 120.00 mmHg
+Temperature: 37.50 °C
